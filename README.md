@@ -82,8 +82,8 @@ data/resolved_companies.csv
 
 ---
 
-## 📌 Output Format
-The output CSV contains all original data plus:
+## 📌 Output Format (data/resolved_companies.csv)
+The resolved_companies.csv file in the data folder contains all original data plus:
 - `canonical_id`: groups similar companies
 
 You can sort or group by this field in Excel to inspect clusters.
